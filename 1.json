@@ -3,15 +3,20 @@
 "name": "@Ugnaught",
 "allyCode": "174768963",
 "tagIdOnDrop": "335915886731067392"
-},  
-{
+ },  
+ {
 "name": "@Пьяный Угнот",
 "allyCode": "823863888",
 "tagIdOnDrop": "335915886731067392"
  },
  {
- "name": "Lelik",
- "allyCode": "494322334",
- "tagIdOnDrop": "405427277636042758"
- }
+"name": "Lelik",
+"allyCode": "494322334",
+"tagIdOnDrop": "405427277636042758"
+ },
+ {
+"name": "Scob",
+"allyCode": "426113143",
+"tagIdOnDrop": "526770376282341386"
+ },
 ]
