@@ -1,7 +1,17 @@
 [
+ { 
+"name": "@Ugnaught",
+"allyCode": "174768963",
+"tagIdOnDrop": "335915886731067392"
+},  
+{
+"name": "@Пьяный Угнот",
+"allyCode": "823863888",
+"tagIdOnDrop": "335915886731067392"
+ },
  {
- "name": "Сергей (KokS1981)",
- "allyCode": "565194252",
- "discordId": "504314096607428609"
+ "name": "Lelik",
+ "allyCode": "494322334",
+ "tagIdOnDrop": "405427277636042758"
  }
 ]
